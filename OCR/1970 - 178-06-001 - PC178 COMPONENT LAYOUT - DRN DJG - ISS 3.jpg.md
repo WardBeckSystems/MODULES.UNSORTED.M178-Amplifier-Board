@@ -37,7 +37,7 @@ Wiki page: [M178](../../../../PAGES/M178.md)
 - **Words (OCR):** 62 in 43 lines: Sw5(No) · '3(o) · swz(nl) · 035 · 057 · Q1 · CR · K5 13 14 CR Lc'Rl · CR · K7 · I0 JL · CR
 - **Title block:** (172, 60)–(251, 91) mm: WARD BECK
 
-Every curve, box, word and wire group: [1970 - 178-06-001 - PC178 COMPONENT LAYOUT - DRN DJG - ISS 3 (traced).json](../SCHEMATICS/1970%20-%20178-06-001%20-%20PC178%20COMPONENT%20LAYOUT%20-%20DRN%20DJG%20-%20ISS%203%20(traced).json) (the CAD file: `1970 - 178-06-001 - PC178 COMPONENT LAYOUT - DRN DJG - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 178-06-001 - PC178 COMPONENT LAYOUT - DRN DJG - ISS 3 (traced).json](../SCHEMATICS/1970%20-%20178-06-001%20-%20PC178%20COMPONENT%20LAYOUT%20-%20DRN%20DJG%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1970 - 178-06-001 - PC178 COMPONENT LAYOUT - DRN DJG - ISS 3 (traced).dxf`).
 
 ## Full text
 
