@@ -1,6 +1,6 @@
 # M178 Amplifier Board · Amplifiers
 
-Ward-Beck Systems M178, 1970|3. Wiki page: [M178 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M178.html)
+Ward-Beck Systems M178, 1970|3. Wiki page: [M178 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M178-Amplifier-Board/)
 
 | Folder | What is in it | Files |
 |---|---|---|

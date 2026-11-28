@@ -1,5 +1,5 @@
 # 1970 - 178-06-001 - PC178 COMPONENT LAYOUT - DRN DJG - ISS 3.jpg
-Wiki page: [M178](../../../../PAGES/M178.md)
+Wiki page: [M178](../)
 
 
 - **Year:** 1970 (title block date)
